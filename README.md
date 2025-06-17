@@ -5,6 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=winrinseo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdnfls1234)](https://solved.ac/tjdnfls1234/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winrinseo&layout=compact)
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
