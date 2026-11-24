@@ -3,7 +3,7 @@
 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=winrinseo&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdnfls1234)](https://solved.ac/tjdnfls1234/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdnfls1234)](https://solved.ac/Winrin/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winrinseo&langs_count=10&hide=Jupyter%20Notebook,SCSS&layout=compact)
 # 💪Skills
